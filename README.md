@@ -10,6 +10,6 @@ Hello everyone 👋, I’m Aurelia<br>I'm passionate about coding<br>I'm coding 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=aurel27525&theme=rose&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=aurel27525&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=aurel27525&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=html)
 ---
 [![](https://komarev.com/ghpvc/?username=aurel27525&icon=0&color=0)](https://visitcount.itsvg.in)
