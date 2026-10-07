@@ -1,4 +1,6 @@
 # 💫 About Me:
+
+
 Hello everyone 👋, I’m Aurelia<br>I'm passionate about coding<br>I'm coding with Python and exploring new programming languages<br>Currently, I’m focusing on improving my skills in mobile app development<br>I love collaborating on projects and contributing to open-source communities<br>Outside of coding, I’m always curious to learn something new every day
 
 
